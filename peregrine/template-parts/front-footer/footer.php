@@ -1,5 +1,5 @@
 <?php $component = \ColibriWP\Theme\View::getData( 'component' ); ?>
-<div data-enabled="false" data-colibri-component="footer-parallax" data-colibri-id="1839-f1" class="page-footer style-59 style-local-1839-f1 position-relative">
+<div data-enabled="true" data-colibri-component="footer-parallax" data-colibri-id="1839-f1" class="page-footer style-59 style-local-1839-f1 position-relative">
   <div data-colibri-component="section" data-colibri-id="1839-f2" id="copyright" class="h-section h-section-global-spacing d-flex align-items-lg-center align-items-md-center align-items-center style-60 style-local-1839-f2 position-relative">
     <div class="h-section-grid-container h-section-boxed-container">
       <div data-colibri-id="1839-f3" class="h-row-container gutters-row-lg-1 gutters-row-md-1 gutters-row-2 gutters-row-v-lg-1 gutters-row-v-md-1 gutters-row-v-2 style-61 style-local-1839-f3 position-relative">
