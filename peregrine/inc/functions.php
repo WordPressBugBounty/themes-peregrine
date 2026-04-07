@@ -505,3 +505,4 @@ function peregrine_has_fresh_site() {
 	return ! count( $mods );
 }
 
+require_once __DIR__ . "/siteleads-integration/index.php";
